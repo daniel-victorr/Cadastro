@@ -1,0 +1,20 @@
+.box{
+background-color: blueviolet;
+font-size: 12pt;
+}
+#box{
+  
+    display: block;
+    background-color: greenyellow;
+    flex-direction: row;
+}
+h1:hover{
+   display: block;
+   font-display: 10px;
+    position: center;
+    background-color: ;
+}
+#btn:hover{
+    background-color: aqua;
+
+}

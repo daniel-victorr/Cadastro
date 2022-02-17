@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,200&family=Titillium+Web:wght@200&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: "Poppins",sans-serif;
+}
+
+body{
+    background: #1B2029;
+    color: white;
+    font-weight: 500;
+    display: flex;
+    min-height: 100vh;
+
+}
+
+main{
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+main h1{
+    color:#8880FE;
+    font-size: 3rem;
+    margin-bottom: 3rem;
+}
+
+main .Social-midia{
+    display: flex;
+    align-content: center;
+}
+
+main .Social-midia a{
+    text-decoration: none;
+}
+
+main .Social-midia img{
+    width: 36px;
+    margin-left: 3rem;
+}
+
+main .Social-midia a:first-child img{
+    margin-left: 0;
+}
+
+main form{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main form label{
+    display: flex;
+    flex-direction: column;
+}
+
+main form label span{
+    font-size: 1.1rem;
+    margin-top: 2rem;
+
+}
+
+main form input{
+    background: #161923;
+    width: 300px;
+    height: 50px;
+    padding: 0 0.5rem;
+    margin-top: 1rem;
+    outline: nome;
+    color: rgbd(166,166,166);
+}

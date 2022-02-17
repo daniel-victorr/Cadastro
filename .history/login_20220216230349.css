@@ -1,0 +1,24 @@
+.box{
+background-color: blueviolet;
+font-size: 12pt;
+}
+#box{
+  
+    display: block;
+    background-color: greenyellow;
+    flex-direction: row;
+}
+h1:hover{
+   
+   text-align: center;
+   font-weight: 10;
+    position: center;
+    background-color: rgb(158, 250, 20);
+}
+#btn:hover{
+    
+    background-color: aqua;
+    position animation-duration: height: border: ;;
+    padding: 10px;
+
+}

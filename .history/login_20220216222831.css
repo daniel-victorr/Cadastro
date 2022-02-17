@@ -1,0 +1,9 @@
+.box{
+background-color: blueviolet;
+font-size: 12pt;
+}
+.box2{
+    display: block;
+    background-color: greenyellow;
+    
+}

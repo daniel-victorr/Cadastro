@@ -1,0 +1,10 @@
+.box{
+background-color: blueviolet;
+font-size: 12pt;
+}
+body.boxd{
+  
+    display: flex;
+    background-color: greenyellow;
+    flex-direction: row;
+}

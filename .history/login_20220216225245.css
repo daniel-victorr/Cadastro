@@ -1,0 +1,18 @@
+.box{
+background-color: blueviolet;
+font-size: 12pt;
+}
+#box{
+  
+    display: block;
+    background-color: greenyellow;
+    flex-direction: row;
+}
+h1{
+   
+    position: center;
+    background-color: red;
+}
+#btn:ho{
+
+}
